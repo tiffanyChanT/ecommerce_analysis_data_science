@@ -1,4 +1,4 @@
-Les données utilisées dans ce projets ont été prise de Kaagle.<br>
+Les données utilisées dans ce projets ont été prise de Kaggle.<br>
 https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics?select=product_catalog.csv<br>
 E-Commerce Sales Analytics Dataset<br>
 ecommerce_sales_cutomer_analytics_150k.csv<br>
