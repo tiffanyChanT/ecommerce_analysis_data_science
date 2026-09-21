@@ -12,7 +12,8 @@ Dans la première partie de l'analyse des données, je me suis posé les questio
 3. Quel type de client dépense le plus?
 
 On peut facilement visualiser les données dans le fichier data_visualisation.pbix<br>
-Les trois premiers onglets sont dédiés à répondre à ces questions.
+Les trois premiers onglets sont dédiés à répondre à ces questions. <br>
+ecommerce_sales.sql contient les requêtes SQL pour cette partie.
 
 Utilisation du fichier order_items.csv et product_catalog.csv<br>
 Dans la deuxième parte de l'analyse des données, je voulais analyser les ventes pour déterminer:<br>
@@ -21,6 +22,7 @@ Dans la deuxième parte de l'analyse des données, je voulais analyser les vente
 3. Sur quels produits l'équipe de marketing devrait se concentrer
 
 Le quatrième onglet de data_visualisation.pbix est dédié à la deuxième partie.<br>
+order_items.sql contient les requêtes SQL pour cette partie. <br>
 J'ai fait l'analyse sur les catégories de produits au lieu de le faire sur chaque produit individuel.<br>
 J'ai séparé les catégories de produits dans 4 groupes:<br>
 1. Les produits qui se vendent en GRANDE QUANTITÉ et ont un HAUT PROFIT<br>
